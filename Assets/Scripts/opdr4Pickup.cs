@@ -10,6 +10,8 @@ public class opdr4Pickup : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         OnPickup?.Invoke();
+        Destroy(gameObject);
+        
     }
     void Start()
     {

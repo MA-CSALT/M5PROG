@@ -11,7 +11,7 @@ public class opdr4Scoreboard : MonoBehaviour
     
     void Start()
     {
-        textField = GetComponent<TMP_Text>();
+        //textField = GetComponent<TMP_Text>();
         opdr4Pickup.OnPickup += AddPickup;
     }
 
@@ -19,6 +19,7 @@ public class opdr4Scoreboard : MonoBehaviour
     {
         score += 50;
         textField.text = "score: " + score;
+        Debug.Log("hi");
     }
     void Update()
     {

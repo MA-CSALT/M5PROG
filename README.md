@@ -15,3 +15,9 @@ Met gebruik van een List zorg ik ervoor dat als je W drukt er 100 Enemies geinst
 ![gif](readmeAssets/opdracht3.gif)
 [code](Assets/Scripts/opdr3Enemy.cs)
 [code](Assets/Scripts/opdr3EnemySpawner.cs)
+
+## Opdracht 4 Action Events
+Als de pickup word aangeraakt stuurt hij een invoke aan die het script van het scoreboard pakt en inzet waardoor de score met 50 omhoog gaat, daarnaast heb ik wat simpele code gebruikt voor de beweging van de speler en de camera.
+![gif](readmeAssets/opdracht4.gif)
+[code](Assets/Scripts/opdr4Pickup.cs)
+[code](Assets/Scripts/opdr4Scoreboard.cs)
