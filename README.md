@@ -21,3 +21,10 @@ Als de pickup word aangeraakt stuurt hij een invoke aan die het script van het s
 ![gif](readmeAssets/opdracht4.gif)
 [code](Assets/Scripts/opdr4Pickup.cs)
 [code](Assets/Scripts/opdr4Scoreboard.cs)
+
+
+
+
+
+
+# M6PROG
