@@ -12,10 +12,11 @@ public class opdr7 : MonoBehaviour
         if (player.Target == null) return false;
         if (!player.Target.IsAlive) return false;
         if (Vector3.Distance(player.transform.position, player.Target.transform.position) <= 5f) return false;
-        if (player.Mana < 20) return false;
-        if (!player.WeaponEquipped) return false;
-        if (player.Health <= 30) return false;
-        if (!player.HasBuff("Strength")) return false;
+
+        bool ManaAndWeapons = (player.Mana >= 20 && player.WeaponEquipped);
+        bool HPandBuff = (player.Health > 30 && player.HasBuff("Strength"));
+        if (!ManaAndWeapons && !HPandBuff) return false;     
+
         if (player.IsStunned) return false;
         if (player.IsSlowed) return false;
                            
