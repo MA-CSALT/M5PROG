@@ -22,7 +22,12 @@ Als de pickup word aangeraakt stuurt hij een invoke aan die het script van het s
 [code](Assets/Scripts/M5/opdr4Pickup.cs)
 [code](Assets/Scripts/M5/opdr4Scoreboard.cs)
 
-
+## Opdracht 5 Inheritance
+De twee kubisen gebruiken dezelfde class maar hebben hun eigen script om de functies in de parent class anders uit te voeren
+![gif](readmeAssets/m5opdr5.gif)
+[code](Assets/Scripts/M5/opdr5/EnemyParent.cs)
+[code](Assets/Scripts/M5/opdr5/Brute.cs)
+[code](Assets/Scripts/M5/opdr5/Elf.cs)
 
 
 
