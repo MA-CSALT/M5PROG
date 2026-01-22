@@ -42,9 +42,25 @@ Zo goed mogelijk geprobeert de depenencies tussen de classes en hun funties en v
 [TD-code](https://github.com/MA-CSALT/M5-TOWER-DEFENSE/tree/main/Assets/Scripts)
 [ClassDiagram](readmeAssets/classdiagram.md)
 
+## Opdracht 10: Anti-Magic
+ik begrijp hoe Enums werken maar ik heb geen scripts waar ik het in toe zou kunnen passen, zie m6 opdracht 3
+
 
 
 # M6PROG
 
+## Opdracht 2 Class diagram,
+zie opdracht 7 van m5
+
+## Opdracht 3: Inventory & Item Management System
+Heb de code gevolgd van de opdracht en heb de Values, Structs en Classes gebruikt
+![gif](readmeAssets/m6opdr3.gif)
+![png](readmeAssets/m6opdr3png.png)
+[code](Assets/Scripts/M6/opdr3/ItemType.cs)
+[code](Assets/Scripts/M6/opdr3/ItemStats.cs)
+[code](Assets/Scripts/M6/opdr3/ItemTemplate.cs)
+[code](Assets/Scripts/M6/opdr3/Inventory.cs)
+
 ## Opracht 7 Early Returns
+Heb de nested if-statements uit elkaar gehaald
 [code](Assets/Scripts/M6/opdr7.cs)
