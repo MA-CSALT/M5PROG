@@ -31,9 +31,16 @@ De twee kubisen gebruiken dezelfde class maar hebben hun eigen script om de func
 
 
 ## Opdracht 6 Encapsulation
+Ik heb het Projectile script aangepast zodat de 'Transform target' private is maar dat het wel gelezen en verandert mag worden.
+Het Path script mag alleen gelezen worden want het pad heeft waardes die niet verandert mogen worden
 ![pdf](readmeAssets/Dependencies.pdf)
 [code](https://github.com/MA-CSALT/M5-TOWER-DEFENSE/blob/main/Assets/Scripts/Path.cs)
 [code](https://github.com/MA-CSALT/M5-TOWER-DEFENSE/blob/main/Assets/Scripts/Projectile.cs)
+
+## Opdracht 7 Class Diagram van je TD project
+Zo goed mogelijk geprobeert de depenencies tussen de classes en hun funties en variabelen te laten zien
+[TD-code](https://github.com/MA-CSALT/M5-TOWER-DEFENSE/tree/main/Assets/Scripts)
+[ClassDiagram](readmeAssets/classdiagram.md)
 
 
 
