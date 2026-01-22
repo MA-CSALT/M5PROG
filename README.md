@@ -33,6 +33,7 @@ De twee kubisen gebruiken dezelfde class maar hebben hun eigen script om de func
 ## Opdracht 6 Encapsulation
 ![pdf](readmeAssets/Dependencies.pdf)
 [code](https://github.com/MA-CSALT/M5-TOWER-DEFENSE/blob/main/Assets/Scripts/Path.cs)
+[code](https://github.com/MA-CSALT/M5-TOWER-DEFENSE/blob/main/Assets/Scripts/Projectile.cs)
 
 
 
