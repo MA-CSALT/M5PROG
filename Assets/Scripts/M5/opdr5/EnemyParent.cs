@@ -20,7 +20,7 @@ public class EnemyParent : MonoBehaviour
 
     public void WalkRight()
     {
-        Debug.Log($"rb: {rb} transform: {transform} movespeed: {moveSpeed}");
+        //Debug.Log($"rb: {rb} transform: {transform} movespeed: {moveSpeed}");
 
         transform.position += transform.right * moveSpeed * Time.deltaTime;
 

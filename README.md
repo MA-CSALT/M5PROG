@@ -30,6 +30,10 @@ De twee kubisen gebruiken dezelfde class maar hebben hun eigen script om de func
 [code](Assets/Scripts/M5/opdr5/Elf.cs)
 
 
+## Opdracht 6 Encapsulation
+![pdf](readmeAssets/Dependencies.pdf)
+[code][https://github.com/MA-CSALT/M5-TOWER-DEFENSE/blob/main/Assets/Scripts/Path.cs]
+
 
 
 # M6PROG
