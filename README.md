@@ -61,6 +61,12 @@ Heb de code gevolgd van de opdracht en heb de Values, Structs en Classes gebruik
 [code](Assets/Scripts/M6/opdr3/ItemTemplate.cs)
 [code](Assets/Scripts/M6/opdr3/Inventory.cs)
 
+## Opdracht 4 Score Collection Game
+Een static event delegate gebruikt om de punten weer te geven in de ui.
+![gif](readmeAssets/m6opdr4.gif)
+[code](Assets/Scripts/M6/opdr4/Player.cs)
+[code](Assets/Scripts/M6/opdr4/PointTracker.cs)
+
 ## Opracht 7 Early Returns
 Heb de nested if-statements uit elkaar gehaald
 [code](Assets/Scripts/M6/opdr7.cs)
